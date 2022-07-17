@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LivStone_connectbees/static/css/main.9311d029.css",
+    "main.js": "/LivStone_connectbees/static/js/main.094700cc.js",
+    "static/js/787.22a05dae.chunk.js": "/LivStone_connectbees/static/js/787.22a05dae.chunk.js",
+    "static/media/HomeBg.jpg": "/LivStone_connectbees/static/media/HomeBg.6255115ff729af4503f4.jpg",
+    "index.html": "/LivStone_connectbees/index.html",
+    "main.9311d029.css.map": "/LivStone_connectbees/static/css/main.9311d029.css.map",
+    "main.094700cc.js.map": "/LivStone_connectbees/static/js/main.094700cc.js.map",
+    "787.22a05dae.chunk.js.map": "/LivStone_connectbees/static/js/787.22a05dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9311d029.css",
+    "static/js/main.094700cc.js"
+  ]
+}
